@@ -107,6 +107,15 @@
   margin-left: auto;
   width: 751px;
 }
+.vstup-cotainer {
+  width: 100%;
+  height: 100%;
+  background: rgb(168, 77, 254) 0%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 /* .vstup {
 } */
 .vstup-cotainer {
