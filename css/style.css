@@ -49,28 +49,28 @@
 .btn1 {
   background: rgb(61, 168, 230);
   font-weight: 500;
-    color: #2e2a1b;
-    display: block;
-    width: 150px;
-    padding: 19px 0;
-    text-align: center;
-    margin-top: 40px;
+  color: #2e2a1b;
+  display: block;
+  width: 150px;
+  padding: 19px 0;
+  text-align: center;
+  margin-top: 40px;
 }
 .btn2 {
-    background: rgb(88, 156, 33);
+  background: rgb(88, 156, 33);
   font-weight: 500;
-    color: #2e2a1b;
-    display: block;
-    width: 150px;
-    padding: 19px 0;
-    text-align: center;
-    margin-top: 40px;
+  color: #2e2a1b;
+  display: block;
+  width: 150px;
+  padding: 19px 0;
+  text-align: center;
+  margin-top: 40px;
 }
 .btn1:hover {
-background:rgb(255, 0, 0) ;
+  background: rgb(255, 0, 0);
 }
 .btn2:hover {
-background: rgb(111, 255, 0);
+  background: rgb(111, 255, 0);
 }
 .header-center {
   width: 766px;
@@ -81,17 +81,15 @@ background: rgb(111, 255, 0);
   border: 6px solid rgba(0, 0, 0, 0.438);
 }
 .header-center {
-  background: url(/img/book.png) no-repeat center center fixed;
+  background: url(/img/book.jpg) no-repeat center center fixed;
   background-size: 750px;
-  background-attachment: scroll
-
-  
+  background-attachment: scroll;
 }
 .wrapper {
-margin-left: 40px;
+  margin-left: 40px;
 }
 .wrapper {
-  position:absolute;
+  position: absolute;
   top: 30%;
 }
 .menu-wrapper {
@@ -110,7 +108,7 @@ margin-left: 40px;
   margin-top: 100px;
   width: 500px;
   border: 6px solid rgb(0, 0, 0);
-} */
+} 
 .vstup {
 }
 .vstup-cotainer {
