@@ -81,7 +81,8 @@
   border: 6px solid rgba(0, 0, 0, 0.438);
 }
 .header-center {
-  background: url(./img/1.jpg) no-repeat center fixed;
+  background-image: url(/img/1.jpg);
+  /* background: url(./img/1.jpg) no-repeat center fixed; */
   background-size: 750px;
   background-attachment: scroll;
 }
