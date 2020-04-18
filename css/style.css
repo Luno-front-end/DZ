@@ -13,7 +13,7 @@
       rgb(168, 77, 254) 0%,
       rgb(250, 116, 26) 100%
     )
-    no-repeat center center fixed;
+    no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
