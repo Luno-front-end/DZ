@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Slab", serif;
+}
+
+.body {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+      -20deg,
+      rgb(168, 77, 254) 0%,
+      rgb(250, 116, 26) 100%
+    )
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.menu-conteiner {
+  margin-right: 150px;
+  margin-top: 15px;
+}
+.menu-conteiner {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.menu1 {
+  display: flex;
+}
+.menu2 {
+  list-style-type: none;
+}
+.li-menu {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+.a-menu {
+  font-size: 20px;
+  font-weight: 500;
+}
+.a {
+  text-decoration: none;
+  color: black;
+}
+.btn1 {
+  background: rgb(61, 168, 230);
+  font-weight: 500;
+    color: #2e2a1b;
+    display: block;
+    width: 150px;
+    padding: 19px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+.btn2 {
+    background: rgb(88, 156, 33);
+  font-weight: 500;
+    color: #2e2a1b;
+    display: block;
+    width: 150px;
+    padding: 19px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+.btn1:hover {
+background:rgb(255, 0, 0) ;
+}
+.btn2:hover {
+background: rgb(111, 255, 0);
+}
+.header-center {
+  width: 766px;
+  height: 915px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  border: 6px solid rgba(0, 0, 0, 0.438);
+}
+.header-center {
+  background: url(/img/book.png) no-repeat center center fixed;
+  background-size: 750px;
+  background-attachment: scroll
+
+  
+}
+.wrapper {
+margin-left: 40px;
+}
+.wrapper {
+  position:absolute;
+  top: 30%;
+}
+.menu-wrapper {
+  margin-top: 20px;
+}
+.li-wrapper1 {
+  padding-top: 15px;
+}
+.li-wrapper2 {
+  padding-left: 50px;
+}
+/* .book {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
+  width: 500px;
+  border: 6px solid rgb(0, 0, 0);
+} */
+.vstup {
+}
+.vstup-cotainer {
+  background-color: #ffffff;
+}
+.vstup-text {
+} */
