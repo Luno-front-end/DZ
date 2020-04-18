@@ -81,7 +81,7 @@
   border: 6px solid rgba(0, 0, 0, 0.438);
 }
 .header-center {
-  background: url(/img/book.jpg) no-repeat center fixed;
+  background: url(/images/book.jpg) no-repeat center fixed;
   background-size: 750px;
   background-attachment: scroll;
 }
